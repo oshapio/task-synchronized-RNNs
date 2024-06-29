@@ -1,6 +1,6 @@
 ## Task-Synchronized Recurrent Neural Networks
 
-Official implementation of Task-Synchronized RNNs for handling irregular time series data.
+Official implementation of <a href='https://arxiv.org/abs/2204.05192'>Task-Synchronized RNNs for handling irregular time series data</a>.
 
 ## Overview
  
