@@ -27,7 +27,7 @@ This approach synchronizes the RNN's internal dynamics with the task's natural t
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/task-synchronized-rnns.git
+git clone https://github.com/oshapio/task-synchronized-RNNs
 cd task-synchronized-rnns
 pip install -r requirements.txt
 ```
